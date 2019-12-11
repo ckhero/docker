@@ -1,0 +1,1 @@
+docker run -v $PWD/www/:/usr/share/nginx/html -p 80:80 e1508d561844
